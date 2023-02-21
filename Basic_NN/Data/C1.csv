@@ -1,0 +1,6 @@
+Size,Shape,Colour,Surface,Thickness,Label
+Big,Circular,Light,Smooth,Thick,Malignant
+Big,Circular,Light,Rough,Thick,Malignant
+Big,Elliptical,Dark,Smooth,Thin,Benign
+Big,Elliptical,Light,Rough,Thick,Malignant
+Small,Circular,Light,Smooth,Thick,Benign

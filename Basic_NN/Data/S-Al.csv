@@ -1,0 +1,9 @@
+Instance,Size,Shape,Colour,Surface,Thickness,Tumour
+1,Small,Circular,Dark,Smooth,Thick,Yes
+2,Small,Elliptical,Light,Smooth,Thin,No
+3,Small,Circular,Light,Rough,Thick,Yes
+4,Small,Elliptical,Light,Rough,Thick,No
+5,Small,Elliptical,Dark,Smooth,Thin,No
+6,Big,Circular,Dark,Smooth,Thick,Yes
+7,Small,Circular,Light,Smooth,Thick,No
+8,Big,Elliptical,Light,Rough,Thin,No
